@@ -1,0 +1,5 @@
+name: Power Plugin
+version: 1.0.0
+main: Power Plugin\soninja\Main
+api: [5.0.0]
+author: soninja
