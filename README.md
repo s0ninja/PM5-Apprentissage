@@ -1,0 +1,1 @@
+Mes connaissances sur PocketMine 5 (software en PHP pour Minecraft Bedrock Edition) sont encore en développement, mais je partage tout de même mes avancées. Bien que la plupart des plugins soient encore incomplets, ils représentent des étapes importantes dans mon apprentissage. Merci pour votre indulgence et votre compréhension
